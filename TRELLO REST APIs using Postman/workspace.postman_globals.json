@@ -1,0 +1,51 @@
+{
+	"id": "0a996695-0f7e-401d-8589-b30b78792065",
+	"values": [
+		{
+			"key": "key",
+			"value": "f28e107bb9af418de664e029170aa92c",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "ATTA51b4bdcec5dc3c2f34e62b40265d8f4eb242d13681d6039643107b812cfe06ae96E71E79",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "BaseURL",
+			"value": " https://api.trello.com/1/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "organization_Id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "member_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "board-id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "list-id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-02-25T00:23:21.267Z",
+	"_postman_exported_using": "Postman/10.10.9"
+}
